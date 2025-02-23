@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/f40a5b1f-181a-44df-9cdc-9d56289312bf)
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
